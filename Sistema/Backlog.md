@@ -17,4 +17,4 @@ Este é o diretório do backlog do produto
 
 ###Figura
 
-![](https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2022/03/O-que-%C3%A9-Backlog-no-INPI.png)
+![Backlog do Produto](https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2022/03/O-que-%C3%A9-Backlog-no-INPI.png)
